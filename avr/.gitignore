@@ -1,0 +1,4 @@
+out/
+.dep/
+src/**/*.o
+src/**/*.lst
