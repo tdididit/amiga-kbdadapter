@@ -1,0 +1,1 @@
+..\avrdude-6.3\avrdude -c buspirate -p m328p -P com5 -U flash:w:XT_KEYBOARD.ino.with_bootloader.arduino_standard.hex -U hfuse:w:0xda:m -U lfuse:w:0xe2:m
